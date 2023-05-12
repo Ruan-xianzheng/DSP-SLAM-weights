@@ -1,0 +1,2 @@
+# DSP-SLAM-weights
+这个仓库存放DSP-SLAM的weights文件，包括三个文件夹：deepsdf、maskrcnn、pointpillars,其中，deepsdf文件夹中又分别包括对应于kitti07数据集和redwood数据集的deepsdf
